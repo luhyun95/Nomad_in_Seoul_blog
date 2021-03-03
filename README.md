@@ -1,0 +1,1 @@
+# Nomad_in_Seoul_blog
